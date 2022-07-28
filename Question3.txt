@@ -1,0 +1,10 @@
+Microsoft.JScript.JScriptException
+Microsoft.JScript.NoContextException
+Microsoft.JScript.ReturnOutOfFinally
+Microsoft.JScript.BreakOutOfFinally
+Microsoft.JScript.ContinueOutOfFinally
+System.Reflection.InvalidFilterCriterialException
+System.Reflection.TargetException
+System.Reflection.TargetParameterCountException
+System.Reflection.TargetInnvocationException
+System.Threading.WaitHandleCannotBeOpenedException

@@ -1,0 +1,3 @@
+Exception handling allows programmers to deal with unexpected situations that may occur in programs.It is a notification that interrupt the normal program execution.Exeption is also a way to transfer control from a part of a program to another.
+Exception is declared using try{}, catch and finally{}.
+Let's take for example, in a program where we expect user to enter a number but maybe by being arrogant, the user entered a letter we are expected to tell the user that he or she has entered wrong input and this can be done by handling the exception.

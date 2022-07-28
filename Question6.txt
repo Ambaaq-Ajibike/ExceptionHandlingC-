@@ -1,0 +1,1 @@
+Exception can be used to separate normal program which is to be executed from the one requirred for unexpected execution, the one to handle the unexpected input from user.

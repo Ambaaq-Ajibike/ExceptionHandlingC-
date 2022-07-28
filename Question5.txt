@@ -1,0 +1,4 @@
+*Question5*
+try-finally
+The code in the finnally block will be executed either an exception is catch or not.This state that we use finally block to print code that must be executed.
+Using keyword in c# is used with all classes that implement the IDisposable interface.
